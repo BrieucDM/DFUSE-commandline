@@ -39,6 +39,8 @@ Calling the STM32 SystemMemory Bootloader from the user application firmware
 -----------------------
 
 To do this please refer to the following video from ST:
+
 [Calling the STM32 SystemMemory Bootloader from your application](https://www.youtube.com/watch?v=cvKC-4tCRgw)
-Calling the STM32 SystemMemory Bootloader from the application firmware(https://www.youtube.com/watch?v=vQQ4yi4KXwU)
+
+[Calling the STM32 SystemMemory Bootloader from the application firmware](https://www.youtube.com/watch?v=vQQ4yi4KXwU)
 
