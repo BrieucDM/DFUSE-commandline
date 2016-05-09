@@ -38,7 +38,7 @@ do nothing.
 Calling the STM32 SystemMemory Bootloader from the user application firmware
 -----------------------
 
-To do this please refer to the following video from ST:
+To do this please refer to the following video from ST. Also you can use the "Blinky Sample" included in the project and  "CD00167594.pdf" file as a reference.
 
 [Calling the STM32 SystemMemory Bootloader from your application](https://www.youtube.com/watch?v=cvKC-4tCRgw)
 
